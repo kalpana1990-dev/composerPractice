@@ -6,7 +6,7 @@ class HelloWorld
 {
     public static function world()
     {
-        return 'Hello World, through Composer!';
+        return 'Hello World, through Composer by kalpana!';
     }
 }
 
