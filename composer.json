@@ -1,0 +1,19 @@
+{
+    "name": "kalpana1990-dev/composer-practice",
+    "description": "practicing composer",
+    "require": {
+        "php": "^7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kalpana1990-dev",
+            "email": "er.kalpanasharma@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+	"autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+}
